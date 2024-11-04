@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPI", "BookAPI\BookAPI.csproj", "{2FB64EEB-700A-4B7A-AEC2-AE65BC50B07D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPITests", "BookAPITests\BookAPITests.csproj", "{56A5EA52-F956-4123-B5BC-8323B8110408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB64EEB-700A-4B7A-AEC2-AE65BC50B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB64EEB-700A-4B7A-AEC2-AE65BC50B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB64EEB-700A-4B7A-AEC2-AE65BC50B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB64EEB-700A-4B7A-AEC2-AE65BC50B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5EA52-F956-4123-B5BC-8323B8110408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5EA52-F956-4123-B5BC-8323B8110408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5EA52-F956-4123-B5BC-8323B8110408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5EA52-F956-4123-B5BC-8323B8110408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
